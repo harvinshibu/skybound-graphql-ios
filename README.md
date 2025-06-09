@@ -71,7 +71,7 @@ Project Root
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/rocket-launches-ios.git
+   git clone https://github.com/harvinshibu/skybound-graphql-ios.git
    ```
 
 2. Install Apollo Globally:
@@ -81,7 +81,7 @@ Project Root
 
 3. Open the workspace:
    ```bash
-   open RocketLaunches.xcworkspace
+   open ExGraphQL.xcworkspace
    ```
 
 4. Run the app on a simulator or device.
